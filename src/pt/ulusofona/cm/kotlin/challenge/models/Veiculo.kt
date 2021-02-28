@@ -1,4 +1,5 @@
 package pt.ulusofona.cm.kotlin.challenge.models
 
-class Veiculo {
+abstract class Veiculo (val identificador: String) {
+
 }

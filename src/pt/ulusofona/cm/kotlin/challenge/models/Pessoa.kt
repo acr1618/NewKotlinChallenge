@@ -1,4 +1,6 @@
 package pt.ulusofona.cm.kotlin.challenge.models
 
-class Pessoa {
+import java.util.*
+
+class Pessoa (nome: String, dataDeNascimento: Date, ) {
 }
